@@ -5,6 +5,9 @@ export default function Home() {
   return (
     <div>
       <Homepage />
+      <div>
+        hello world
+      </div>
     </div>
   );
 }
